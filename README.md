@@ -1,2 +1,2 @@
 # GitTest
-noop
+练习Git操作。
